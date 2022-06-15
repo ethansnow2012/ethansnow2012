@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on <strong>(Frontend Development|Product Development)</strong>
-- 🌱 I’m currently learning <strong>Typescript</strong>
-- 👯 I’m looking to collaborate on your Team<strong>(if your are HR/HM)</strong>
+- 🔭 I’m currently working on <strong>(Frontend Development|Product Development)</strong>.
+- 🌱 I’m currently learning <strong>Typescript</strong>.
+- 👯 I’m looking to collaborate on your Team <strong>(if your are HR/HM)</strong>.
 
 
 <br>
