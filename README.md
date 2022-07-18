@@ -42,9 +42,6 @@
   <li>
     https://ethansnow2012.github.io/recole_guide
   </li>
-  <li>
-     https://atticstone.com
-  </li>
 </ul>
 
 
