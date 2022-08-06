@@ -49,6 +49,9 @@
   https://github.com/ethansnow2012/vue-my-storybook-v2.1
   </li>
   <li>
+  https://github.com/ethansnow2012/vue-my-storybook (old)
+  </li>
+  <li>
   https://github.com/ethansnow2012/my-react-storybook
   </li>
 </ul>
