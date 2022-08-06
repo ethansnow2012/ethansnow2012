@@ -46,7 +46,7 @@
 <div>Or Recent Practices:</div>
 <ul>
   <li>
-  https://github.com/ethansnow2012/vue-my-storybook
+  https://github.com/ethansnow2012/vue-my-storybook-v2.1
   </li>
   <li>
   https://github.com/ethansnow2012/my-react-storybook
