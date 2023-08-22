@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on <strong>(Frontend Development|Product Development)</strong>.
 - 🌱 I’m currently learning <strong>Typescript</strong>.
 - 👯 I’m looking to collaborate on your Team <strong>(if your are HR/HM)</strong>.
+- 😸 I’m tying to do figma my self.[ ==>Demo](https://www.figma.com/community/file/1275807140702497684/Demo-My-Figma-Practice)
 
 
 <br>
