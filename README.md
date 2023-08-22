@@ -68,3 +68,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🤔 I’m looking for help with ...
 -->
+
+## Hobby:
+
+Business Discussion: [Figjam](https://www.figma.com/file/GsuKkcL5QnMYYuoZKwlbLt/Demo%3A-Business-Discussion-game-platform?type=whiteboard&node-id=0-1&t=TIKgLJDiRrRpZuJL-0)
