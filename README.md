@@ -5,6 +5,9 @@
 - 😸 I’m tying to do figma my self.[ ==> Demo Figma](https://www.figma.com/community/file/1275811777291513761/My-Figma-Practice)
 <br>
 
+### My Gist
+https://gist.github.com/ethansnow2012
+
 ## To see my code:
 
  <div>React: </div>
