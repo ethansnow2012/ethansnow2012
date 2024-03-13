@@ -5,21 +5,27 @@
   <strong>Beta Production:</strong> [Live Demo](https://www.victorbar.tw/)
   <strong>Demo:</strong> [Figma](https://www.figma.com/community/file/1275811777291513761/My-Figma-Practice)
   <strong>Business Discussion:</strong> [Figjam](https://www.figma.com/file/GsuKkcL5QnMYYuoZKwlbLt/Demo%3A-Business-Discussion-game-platform?type=whiteboard&node-id=0-1&t=TIKgLJDiRrRpZuJL-0)
-  
+
 <br>
 
-### My Gist
-https://gist.github.com/ethansnow2012
 
-## To see my code:
+## Recently working on:
 
-<div>Recently: 
-</div>
+
 <ul>
-  https://github.com/ethansnow2012/CodeBaseJson  
+  <li>
+    CodeBase Export Tool for Ai: <a href="https://github.com/ethansnow2012/CodeBaseJson">CodeBaseJson</a>
+  </li>
+  <li>
+    SaaS Platform for Larps: <a href="https://www.victorbar.tw/">維克多酒吧</a>
+
+    
+  </li>
 </ul>
 
+<br>
 
+### Good Old Days(not maintaining):
  <div>React: </div>
   <ul>
   <li>
@@ -54,6 +60,10 @@ https://gist.github.com/ethansnow2012
     https://ethansnow2012.github.io/recole_guide
   </li>
 </ul>
+
+
+### My Gist
+https://gist.github.com/ethansnow2012
 
 
 
