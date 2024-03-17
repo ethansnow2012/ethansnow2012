@@ -5,7 +5,7 @@
   <strong>Beta Production:</strong> [Live Demo](https://www.victorbar.tw/)
   <strong>Demo:</strong> [Figma](https://www.figma.com/community/file/1275811777291513761/My-Figma-Practice)
   <strong>Business Discussion:</strong> [Figjam](https://www.figma.com/file/GsuKkcL5QnMYYuoZKwlbLt/Demo%3A-Business-Discussion-game-platform?type=whiteboard&node-id=0-1&t=TIKgLJDiRrRpZuJL-0)
-
+- 🔭 I’m looking for job opportunities. About me: [Cakeresume](https://www.cakeresume.com/ethansnow)
 <br>
 
 
