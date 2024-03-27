@@ -24,7 +24,7 @@
 </ul>
 
 <br>
-
+<!-- <div style="color:grey">
 ### Good Old Days(not maintaining):
  <div>React: </div>
   <ul>
@@ -60,6 +60,7 @@
     https://ethansnow2012.github.io/recole_guide
   </li>
 </ul>
+</div> -->
 
 
 ### My Gist
