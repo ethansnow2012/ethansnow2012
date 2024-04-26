@@ -18,8 +18,14 @@
   </li>
   <li>
     SaaS Platform for Larps: <a href="https://www.victorbar.tw/">維克多酒吧</a>
-
-    
+    <ul>
+      <li>
+        Tech Stack: Next.js, tRPC, prisma, Tailwind, vercel, Mailersend
+      </li>
+      <li>
+        功能：上架、預約系統、Mail通知、多重身份瀏覽
+      </li>
+    </ul>    
   </li>
 </ul>
 
