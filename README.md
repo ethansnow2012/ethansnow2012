@@ -76,6 +76,10 @@
 https://gist.github.com/ethansnow2012
 
 
+### Something not so Important
+https://ethansnow2012.github.io/
+
+
 
 <!--
 **ethansnow2012/ethansnow2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
